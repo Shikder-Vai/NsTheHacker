@@ -96,12 +96,12 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "yang bener dong"
-            os.system('xdg-open https://wa.me/6285691015635')
+            os.system('xdg-open https://www.facebook.com/Shikder.vau')
     else:
         print "salah sayang!"
-        os.system('xdg-open https://wa.me/6285691015635')
+        os.system('xdg-open https://www.facebook.com/Shikder.vau')
 
-def login():
+def login():/
 	os.system('clear')
 	try:
 		toket = open('login.txt','r')
