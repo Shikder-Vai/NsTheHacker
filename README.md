@@ -8,5 +8,5 @@ git clone https://github.com/NsTheHacker/NsTheHacker.git </br>
 cd NsTheHacker </br>
 chmod +x *.py </br>
 python2 Shikder.py </br>
-user name : hi i am
-password : nasahogar
+user name : hi i am </br>
+password : nasahogar </br>
