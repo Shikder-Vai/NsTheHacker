@@ -5,6 +5,6 @@ pkg install python2 </br>
 pip2 install request </br>
 pip2 install mechanize </br>
 git clone https://github.com/NsTheHacker/NsTheHacker1.git </br>
-cd NsTheHacker1 </br>
+cd NsTheHacker </br>
 chmod +x *.py </br>
 python2 Shikder.py </br>
